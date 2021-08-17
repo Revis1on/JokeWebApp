@@ -12,6 +12,8 @@ namespace JokeWebApp.Models
 
         public string JokeAnswer { get; set; }
 
+
+
         public Joke()
         {
 
